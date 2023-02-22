@@ -19,7 +19,7 @@ def get_args():
 
 # --------------------------------------------------
 def main():
-    """Make a jazz noise here"""
+    """Make a jazz noise here""" 
 
     args = get_args()
     jumper = {'1': '9', '2': '8', '3': '7', '4': '6', '5': '0',
